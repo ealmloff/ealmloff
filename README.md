@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently working on subtree memorization for the [dioxus](https://gitub.com/dioxuslabs) webframework.
+- I'm currently working on the [dioxus](https://gitub.com/dioxuslabs) webframework.
 - I'm interested in the future of web development, embedded systems, incremental computation, and natural language processing.
 - I'm a member of [dioxus labs](https://github.com/dioxuslabs) and a maintainer of dioxus.
 - Check out my contributions to [dioxus](https://github.com/DioxusLabs/dioxus), [rink](https://github.com/DioxusLabs/dioxus/tree/master/packages/tui), and [blitz](https://github.com/DioxusLabs/blitz)
