@@ -22,4 +22,7 @@ Here are some ideas to get you started:
 
 I also just started developing [Floneum](https://floneum.com/) an open source graph editor for workflows that use local lanuage models. (If that sounds interesting, consider joining the [discord](https://discord.gg/dQdmhuB8q5))
 
-![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ealmloff)
+![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ealmloff&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ealmloff&theme=tokyonight)
+
