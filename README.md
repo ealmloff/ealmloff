@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently working on the [dioxus](https://gitub.com/dioxuslabs) webframework.
+- I'm currently working on the [dioxus](https://github.com/dioxuslabs) webframework.
 - I'm interested in the future of web development, incremental computation, and natural language processing.
 - I'm a member of [dioxus labs](https://github.com/dioxuslabs) and a maintainer of dioxus.
 - I'm also working on [rink](https://github.com/DioxusLabs/dioxus/tree/master/packages/tui) a TUI render for Dioxus, [sledgehammer-bindgen](https://github.com/Demonthos/sledgehammer_bindgen) the world's fastest JavaScript rust binding library and [blitz](https://github.com/DioxusLabs/blitz) a WGPU renderer for Dioxus
