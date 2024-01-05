@@ -24,7 +24,7 @@ I'm working on [Floneum/Kalosm](https://floneum.com/) an open source graph edito
 To support Floneum, I am building a multimodal metaframework for AI in rust that uses Candle and Llama.cpp called [Kalosm](https://github.com/floneum/floneum/tree/master/kalosm).
 (If either of those sound interesting, consider joining the [discord](https://discord.gg/dQdmhuB8q5))
 
-![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ealmloff&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ealmloff&theme=tokyonight)
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ealmloff&theme=tokyonight&hide_rank=true"></img>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ealmloff&theme=tokyonight"></img>
+</div>
