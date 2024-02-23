@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 I'm working on [Floneum/Kalosm](https://floneum.com/) an open source graph editor for workflows that use local AI models.
 To support Floneum, I am building a multimodal metaframework for AI in rust that uses Candle and Llama.cpp called [Kalosm](https://github.com/floneum/floneum/tree/master/kalosm).
-(If either of those sound interesting, consider joining the [discord](https://discord.gg/dQdmhuB8q5))
+
+**If either of those sound interesting, consider joining the [discord](https://discord.gg/dQdmhuB8q5)**
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ealmloff&theme=tokyonight&hide_rank=true"></img>
