@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - I'm also working on [rink](https://github.com/DioxusLabs/dioxus/tree/master/packages/tui) a TUI render for Dioxus, [sledgehammer-bindgen](https://github.com/Demonthos/sledgehammer_bindgen) the world's fastest JavaScript rust binding library and [blitz](https://github.com/DioxusLabs/blitz) a WGPU renderer for Dioxus
 
 I'm working on [Floneum](https://floneum.com/) an open source graph editor for workflows that use local AI models.
-To support Floneum, I am building a multimodal metaframework for AI in rust that uses Candle and Llama.cpp called [Kalosm](https://github.com/floneum/floneum/tree/master/kalosm).
+To support Floneum, I am building a multimodal metaframework for AI in rust that uses Candle and Llama.cpp called [Kalosm](https://floneum.com/kalosm).
 
 **If either of those sound interesting, consider joining the [discord](https://discord.gg/dQdmhuB8q5)**
 
