@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently working on the [dioxus](https://github.com/dioxuslabs) UI framework.
-- I'm interested in the future of web development, incremental computation, and natural language processing.
-- I'm a member of [dioxus labs](https://github.com/dioxuslabs) and a maintainer of dioxus.
-- I'm also working on [rink](https://github.com/DioxusLabs/dioxus/tree/master/packages/tui) a TUI render for Dioxus, [sledgehammer-bindgen](https://github.com/Demonthos/sledgehammer_bindgen) the world's fastest JavaScript rust binding library and [blitz](https://github.com/DioxusLabs/blitz) a WGPU renderer for Dioxus
+- I'm currently working on the [dioxus](https://github.com/dioxuslabs) UI framework as a member of [dioxus labs](https://github.com/dioxuslabs) and a maintainer of dioxus.
+- I'm interested in cross plaftorm development, and local AI.
 
 I'm working on [Floneum](https://floneum.com/) an open source graph editor for workflows that use local AI models.
 To support Floneum, I am building a multimodal metaframework for AI in rust that uses Candle and Llama.cpp called [Kalosm](https://floneum.com/kalosm).
