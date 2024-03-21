@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - I'm interested in cross plaftorm development, and local AI.
 
 I'm working on [Floneum](https://floneum.com/) an open source graph editor for workflows that use local AI models.
-To support Floneum, I am building a multimodal metaframework for AI in rust that uses Candle and Llama.cpp called [Kalosm](https://floneum.com/kalosm).
+To support Floneum, I am building a multimodal library for pretrained models in rust called [Kalosm](https://floneum.com/kalosm).
 
 **If either of those sound interesting, consider joining the [discord](https://discord.gg/dQdmhuB8q5)**
 
